@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GIFTr"]
+	path = GIFTr
+	url = https://github.com/omashkartrx/giftr
+	shallow = true
+	registered = true
